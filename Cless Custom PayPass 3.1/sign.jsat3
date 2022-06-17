@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="scenario">
+	<item value="F:\JRIZKI\Ingenico\jrizki2018\Save\Workspace\ClessCustom" key="output"/>
+	<item value="F:\JRIZKI\Ingenico\jrizki2018\Save\Workspace\ClessCustom\Bin\GNU_ARM_DEBUG_TETRA\8002900000_CLESSCUSTOM.P3A.pkg" key="binary"/>
+	<item value="F:\JRIZKI\Ingenico\jrizki2018\Save\Workspace\ClessCustom\Bin\GNU_ARM_DEBUG_TETRA\8002900000_CLESSCUSTOM.P3A.jsat" key="parameter"/>
+	<item value="PAYMENT" key="certificate"/>
+</section>

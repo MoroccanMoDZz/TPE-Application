@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?teliumProject version="9.0"?><?ingedev version="8.14.1.0"?><projectDescription activeConfig="GNU_ARM_DEBUG_TETRA" enableUsingCpp="true" projectType="APP">
+<virtualFolders>
+<virtualFolder name="Other Files" sources="false"/>
+<virtualFolder name="Source Files" sources="true">
+<file generated="false" name="Src/ClessSample_Batch.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_BlackList.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Comevent.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Common.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Customisation.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_DataExchange.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Discover.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Disk.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_DumpData.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_ExplicitSelection.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_ExpressPay.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Fill.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_FinancialCommunication.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_GlobalTransactionData.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Goal.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_GuiState.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Interac.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_lang.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Menu.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_NameList.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Parameters.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_PayPass.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_payWave.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_PinEnManagement.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_PinEntryGoal.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_PinManagement.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Receipt.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Scan.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Settings.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Term.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_TestPlan.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Torn.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_TransactionFile.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_Unattended.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_VisaWave.c" parentProject=""/>
+<file generated="false" name="Src/ClessSample_XML.c" parentProject=""/>
+<file generated="false" name="Src/Entry.c" parentProject=""/>
+<file generated="false" name="Src/perf_log.c" parentProject=""/>
+<file generated="false" name="Src/servcomm.c" parentProject=""/>
+<file generated="false" name="Src/UserInterfaceHelpers.c" parentProject=""/>
+<file generated="false" name="Src/ComEthernet.c" parentProject=""/>
+<file generated="false" name="Src/ComGPRS.c" parentProject=""/>
+<file generated="false" name="Src/ComSerial.c" parentProject=""/>
+<file generated="false" name="Src/ComUSB.c" parentProject=""/>
+<file generated="false" name="Src/convert.c" parentProject=""/>
+<file generated="false" name="Src/EPSTOOL_Convert.c" parentProject=""/>
+<file generated="false" name="Src/EPSTOOL_PinEntry.c" parentProject=""/>
+<file generated="false" name="Src/EPSTOOL_TlvTree.c" parentProject=""/>
+<file generated="false" name="Src/EPSTOOL_Unicode.c" parentProject=""/>
+<file generated="false" name="Src/Magnetic.c" parentProject=""/>
+<file generated="false" name="Src/Mapapp.c" parentProject=""/>
+<file generated="false" name="Src/MyTlvTree.c" parentProject=""/>
+<file generated="false" name="Src/Naps8583.c" parentProject=""/>
+<file generated="false" name="Src/NapsAllFile.c" parentProject=""/>
+<file generated="false" name="Src/NapsCard.c" parentProject=""/>
+<file generated="false" name="Src/Napsdes_m.c" parentProject=""/>
+<file generated="false" name="Src/NapsEdition.c" parentProject=""/>
+<file generated="false" name="Src/NapsTra.c" parentProject=""/>
+<file generated="false" name="Src/Timer.c" parentProject=""/>
+<file generated="false" name="Src/Utility.c" parentProject=""/>
+<file generated="false" name="Src/Naps_ClessSample_Receipt.c" parentProject=""/>
+<file generated="false" name="Src/NapsAuto.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_Explicit.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_GuiGoal.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_Kernel.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_ParamTrn.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_PayPass.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_PayPassTorn.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_payWave.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_Selection.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_Services.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_ServicesImplicit.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_ServicesKernel.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_ServicesManager.c" parentProject=""/>
+<file generated="false" name="Src/APCLESS_Tools.c" parentProject=""/>
+<file generated="false" name="Src/cu_UserInterface.c" parentProject=""/>
+<file generated="false" name="Src/cu_UserInterfaceDisplay.c" parentProject=""/>
+<file generated="false" name="Src/cu_UserInterfaceHelpers.c" parentProject=""/>
+<file generated="false" name="Src/NapsTools.c" parentProject=""/>
+<file generated="false" name="Src/cu_term.c" parentProject=""/>
+<file generated="false" name="Src/Goal.c" parentProject=""/>
+</virtualFolder>
+<archiveFilesVirtualFolder name="Archive Files"/>
+</virtualFolders>
+<configs>
+<config applicationType="0x122" asmCpuMode="thumb" assemblerCustomOpt="" binaryName="CLESSCUSTOM" codeBaseAddr="0x00001000" compiler="gnuArm4" compilerCustomOpt="" cpuMode="thumb" crc="false" dataBaseAddr="0x00200000" dataBinaryFileBaseName="DATA0122" defaultTeliumCompatibility="Telium 2" enableCPPExceptions="false" gnu4StackProtectionMode="ProPolice" gnuOptim="-O0" hardware="Telium 2" linkerCustomOpt="" name="GNU_ARM_DEBUG_T2" projectFamily="CLESSCUSTOM" sign="false" useDataFileNamingConvention="true" zip="false">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium 2"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.0.PatchG"/>
+</teliumSdkPackages>
+<teliumAddonPackages>
+<teliumAddonPackage package="Telium Unattended" version="8.0.0.00"/>
+<teliumAddonPackage package="Easy Path to C'Less" version="7.6.2.00"/>
+<teliumAddonPackage package="Easy Path to EMV" version="30.12.0.01"/>
+</teliumAddonPackages>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_SECDEL_"/>
+<userDefine value="_USE_DEL_LIB_"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM1_FULL_BINARY_NAME=&quot;${appli_telium1_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM2_FULL_BINARY_NAME=&quot;${appli_telium2_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM1_BINARY_NAME=&quot;${appli_data_file_telium1_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM2_BINARY_NAME=&quot;${appli_data_file_telium2_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+<prebuild command="" description=""/>
+<postbuild command="" description=""/>
+<externalSchemes/>
+<userAsmIncs/>
+<userSystemLibrariesOptions/>
+<userSystemLibraries/>
+<userAsmDefines/>
+<dataFiles/>
+</config>
+<config applicationType="0x122" asmCpuMode="thumb" binaryName="CLESSCUSTOM" compiler="gnuArm47v7a" compilerCustomOpt="" cpuMode="thumb" crc="false" dataBinaryFileBaseName="DATA0122" defaultTeliumCompatibility="Telium Tetra" disassembler="false" enableCPPExceptions="true" gcov="false" gnuOptim="-O0" gprof="false" hardware="Telium Tetra" linkerCustomOpt="" name="GNU_ARM_DEBUG_TETRA" projectFamily="CLESSCUSTOM" sign="false" signatureCertificate="PAYMENT" signatureCertificateProvider="Telium SDK" stripEnable="true" stripOpt=" --remove-section=.comment " useDataFileNamingConvention="true" zip="false">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium Tetra"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="C:\Program Files\TeliumSDK\Easy Path to CLess 7.6.2.00\SDKTPLUS\HW_T2\gnu_434\inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.0.PatchG"/>
+</teliumSdkPackages>
+<teliumPackageInfo countryCode="000" family="CLESSCUSTOM" identifier="290" maintenancePatch="00" majorVersion="00" minorRelease="04" range="00"/>
+<teliumAddonPackages>
+<teliumAddonPackage package="Easy Path to C'Less" version="7.6.2.00"/>
+</teliumAddonPackages>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_FULL_BINARY_NAME=&quot;${appli_telium_tetra_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM_TETRA_BINARY_NAME=&quot;${appli_data_file_telium_tetra_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_NAME=&quot;${appli_telium_tetra_package_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_TYPE=&quot;${appli_telium_tetra_package_type}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_RANGE=&quot;${appli_telium_tetra_package_range}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_COUNTRY_CODE=&quot;${appli_telium_tetra_package_country_code}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_IDENTIFIER=&quot;${appli_telium_tetra_package_identifier}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_VERSION=&quot;${appli_telium_tetra_package_version}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_COMPONENT_NAME=&quot;${appli_telium_tetra_component_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_FAMILY=&quot;${appli_telium_tetra_package_family}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_ROOTNAME=&quot;${appli_telium_tetra_package_rootname}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+<userDefine value="DISABLE_UNATTENDED"/>
+<userDefine value="DISABLE_OTHERS_KERNELS_EXPRESS"/>
+</userDefines>
+<prebuild command="" description=""/>
+<postbuild command="" description=""/>
+<userAsmIncs/>
+<userSystemLibrariesOptions/>
+<userAsmDefines>
+<userAsmDefine value="DISABLE_OTHERS_KERNELS=DISABLE_OTHERS_KERNELS"/>
+</userAsmDefines>
+<dataFiles/>
+<userSystemLibraries/>
+<simpleLibraries>
+<simpleLib name="FMG_TPlus.a"/>
+</simpleLibraries>
+<externalSchemes/>
+</config>
+<config applicationType="0x122" asmCpuMode="thumb" binaryName="CLESSCUSTOM" codeBaseAddr="0x00001000" compiler="gnuArm4" compilerCustomOpt="" cpuMode="thumb" crc="true" dataBaseAddr="0x00200000" dataBinaryFileBaseName="DATA0122" defaultTeliumCompatibility="Telium 2" disassembler="false" enableCPPExceptions="true" gnu4StackProtectionMode="ProPolice" gnuOptim="-Os" hardware="Telium 2" linkerCustomOpt="" name="GNU_ARM_RELEASE_T2" projectFamily="CLESSCUSTOM" sign="false" useDataFileNamingConvention="true" zip="true">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium 2"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.0.PatchG"/>
+</teliumSdkPackages>
+<teliumAddonPackages>
+<teliumAddonPackage package="Telium Unattended" version="8.0.0.00"/>
+<teliumAddonPackage package="Easy Path to C'Less" version="7.6.2.00"/>
+</teliumAddonPackages>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM1_FULL_BINARY_NAME=&quot;${appli_telium1_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM2_FULL_BINARY_NAME=&quot;${appli_telium2_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM1_BINARY_NAME=&quot;${appli_data_file_telium1_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM2_BINARY_NAME=&quot;${appli_data_file_telium2_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+<userDefine value="DISABLE_OTHERS_KERNELS"/>
+</userDefines>
+<prebuild command="" description=""/>
+<postbuild command="" description=""/>
+<externalSchemes/>
+<userSystemLibrariesOptions/>
+<userAsmDefines/>
+<dataFiles/>
+<userAsmIncs/>
+<userSystemLibraries/>
+</config>
+<config applicationType="0x122" asmCpuMode="thumb" binaryName="CLESSCUSTOM" compiler="gnuArm47v7a" cpuMode="thumb" crc="true" dataBinaryFileBaseName="DATA0122" defaultTeliumCompatibility="Telium Tetra" enableCPPExceptions="true" gcov="false" gnuOptim="-Os" gprof="false" hardware="Telium Tetra" name="GNU_ARM_RELEASE_TETRA" projectFamily="CLESSCUSTOM" sign="false" signatureCertificate="PAYMENT" stripEnable="true" stripOpt=" --remove-section=.comment " useDataFileNamingConvention="true" zip="true">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium Tetra"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.0.PatchG"/>
+</teliumSdkPackages>
+<teliumPackageInfo countryCode="000" family="ClessCustom_for" identifier="290" maintenancePatch="00" majorVersion="00" minorRelease="00" range="00"/>
+<teliumAddonPackages>
+<teliumAddonPackage package="Easy Path to C'Less" version="7.6.2.00"/>
+</teliumAddonPackages>
+<userDefines>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_FULL_BINARY_NAME=&quot;${appli_telium_tetra_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM_TETRA_BINARY_NAME=&quot;${appli_data_file_telium_tetra_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_NAME=&quot;${appli_telium_tetra_package_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_TYPE=&quot;${appli_telium_tetra_package_type}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_RANGE=&quot;${appli_telium_tetra_package_range}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_COUNTRY_CODE=&quot;${appli_telium_tetra_package_country_code}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_IDENTIFIER=&quot;${appli_telium_tetra_package_identifier}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_VERSION=&quot;${appli_telium_tetra_package_version}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_COMPONENT_NAME=&quot;${appli_telium_tetra_component_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_FAMILY=&quot;${appli_telium_tetra_package_family}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_ROOTNAME=&quot;${appli_telium_tetra_package_rootname}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+<userDefine value="DISABLE_OTHERS_KERNELS"/>
+<userDefine value="DISABLE_UNATTENDED"/>
+</userDefines>
+<prebuild command="" description=""/>
+<postbuild command="" description=""/>
+<externalSchemes/>
+<userAsmIncs/>
+<userSystemLibrariesOptions/>
+<userAsmDefines/>
+<dataFiles/>
+<userSystemLibraries/>
+</config>
+</configs>
+<groupConfigs/>
+</projectDescription>

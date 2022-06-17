@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Cless Custom PayPass 3.1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.ingenico.ingedev.telium.goal.core.ingedevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.ingenico.ingedev.telium.fwtplus.core.ingedevTplusBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.ingenico.ingedev.telium.fwtplus.core.teliumFwTplusAppNature</nature>
+		<nature>com.ingenico.ingedev.telium.fwtplus.core.teliumFwTplusNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>com.ingenico.ingedev.telium.goal.core.goalNature</nature>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>GOAL</name>
+			<type>2</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/GOAL</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_Gui.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_Gui.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_Kernel.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_Kernel.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_ParamTrn.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_ParamTrn.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_PayPass.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_PayPass.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_Selection.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_Selection.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_ServicesImplicit.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_ServicesImplicit.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_ServicesKernel.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_ServicesKernel.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_ServicesManager.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_ServicesManager.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_Tools.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_Tools.h</location>
+		</link>
+		<link>
+			<name>Inc/APCLESS_payWave.h</name>
+			<type>1</type>
+			<location>C:/Users/kailal/Desktop/CASA Transport/CASA-TRANSPORT/trunk/TPE/IPP350/ClessCustom/Inc/APCLESS_payWave.h</location>
+		</link>
+	</linkedResources>
+</projectDescription>
