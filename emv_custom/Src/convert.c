@@ -13,7 +13,6 @@
 * and decompilation. No part of this software may be reproduced in any form by any means\n
 * without prior written authorization of Ingenico France.
 **/
-
 /* ======================================================================== */
 /* Include Files                                                            */
 /* ======================================================================== */
