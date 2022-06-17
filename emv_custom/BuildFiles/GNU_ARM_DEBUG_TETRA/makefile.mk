@@ -120,7 +120,7 @@ INCLUDES_ASM_PATH   := \
 # Libraries to be included during link operation
 #-------------------------------------------------------------------------------
 LIBS            := \
-E:/Omoubarak2021/Porjets/NAPS/TPE3500/emvcustom/FMG_TPlus.a \
+C:/Users/omoubarak/git/TPE-Application/emv_custom/FMG_TPlus.a \
 C:/Program\ Files/TeliumSDK/SDK11.16.0.PatchG/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libSecurityTp.lib \
 C:/Program\ Files/TeliumSDK/SDK11.16.0.PatchG/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libbluetooth.lib \
 C:/Program\ Files/TeliumSDK/SDK11.16.0.PatchG/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwifi.lib \
