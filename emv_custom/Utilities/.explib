@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?teliumExportLib version="0.1"?><?ingedev version="11.0.2.201604041519"?><projectDescription binaryName="Utilities" name="Utilities" projectType="exportedLib">
+<version value="1.0.0"/>
+<mode value="release"/>
+<framework value="FrameWork TeliumPlus"/>
+<configs>
+<config name="GNU_ARM_DEBUG_T2" toolchain="gnuArm4"/>
+<config name="GNU_ARM_DEBUG_TETRA" toolchain="gnuArm47v7a"/>
+<config name="GNU_ARM_RELEASE_T2" toolchain="gnuArm4"/>
+<config name="GNU_ARM_RELEASE_TETRA" toolchain="gnuArm47v7a"/>
+</configs>
+<lib_incs>
+<lib_inc value="Inc\ExpInc"/>
+</lib_incs>
+</projectDescription>
